@@ -1,5 +1,6 @@
 # Self-organization-of-a-biogeomorhic-landscape-contorlled-by-plant-life-history-traits
-This repositroy provides the model code used for the Nature Geoscience publication "Self-organization of a biogeomorphic landscape controlled by plant life-history traits".
+This repositroy provides the vegetation-model code used for the Nature Geoscience publication "Self-organization of a biogeomorphic landscape controlled by plant life-history traits". The code is based on the TELEMAC model environment, for fruther information please refer to http://www.opentelemac.org/.
+
 *****************************
         veg_model.f 
 *****************************
