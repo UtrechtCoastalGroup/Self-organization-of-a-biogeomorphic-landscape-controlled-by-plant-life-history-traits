@@ -1,0 +1,22 @@
+/---------------------------------------------------------------------
+/ TELEMAC2D Version v7p2R0
+/---------------------------------------------------------------------
+VERTICAL STRUCTURES			     : YES
+
+/---------------------------------------------------------------------
+/ INPUT-OUTPUT, FILES
+/---------------------------------------------------------------------
+FORTRAN FILE             		     :'veg_model.f'
+VARIABLES FOR GRAPHIC PRINTOUTS              :'T1'
+
+
+/----------------------------------------------------------------------
+/                       TRACER
+/----------------------------------------------------------------------
+NUMBER OF TRACERS                            : 1
+NAMES OF TRACERS                             : 'BIOMASS'
+DIFFUSION OF TRACERS                         : YES
+ADVECTION OF TRACERS                         : NO
+MASS-LUMPING ON H                            : 1.
+INITIAL VALUES OF TRACERS                    : 0
+COEFFICIENT FOR DIFFUSION OF TRACERS         : 1e-6
